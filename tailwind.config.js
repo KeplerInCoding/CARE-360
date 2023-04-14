@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         mullish: ["Mulish", "sans-serif"],
+        
+       
       },
       colors: {
         sage: "#9CAF88",
@@ -20,6 +22,9 @@ module.exports = {
         sea: "#2E8B57",
         mint: "#98FB98",
         jade: "#00A86B",
+        tea: "#D0F0C0",
+        laurel: "#A9BA9D",
+
 
       },
     },
