@@ -8,7 +8,7 @@ This web application will provide users with a way to manage their healthcare re
 
 The web application will include the following features:
 
--__Secure storage of healthcare records__: Users will be able to securely store their healthcare records in the cloud, including medical history, lab results, and imaging reports.
+- __Secure storage of healthcare records__: Users will be able to securely store their healthcare records in the cloud, including medical history, lab results, and imaging reports.
 
 -__ML-powered insights__: The web project will use ML to provide users with insights into their health data, such as identifying trends and patterns, and predicting future health risks.
 
