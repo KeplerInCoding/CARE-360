@@ -35,4 +35,6 @@ The web application will include the following features:
 
 # Promotional Video
 
-[![Introducing CARE 360](https://img.youtube.com/vi/r__xJG56WEE/maxresdefault.jpg)](https://www.youtube.com/watch?v=r__xJG56WEE "Introducing CARE 360")
+[![Introducing CARE 360](https://img.youtube.com/vi/r__xJG56WEE/0.jpg)](https://www.youtube.com/watch?v=r__xJG56WEE)
+
+
