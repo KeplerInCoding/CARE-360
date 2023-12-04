@@ -35,4 +35,4 @@ The web application will include the following features:
 
 # Promotional Video
 
-[![Introducing CARE 360](<img width="1678" alt="Screenshot 2023-12-04 at 8 41 56 PM" src="https://github.com/aksshatgovind/CARE-360/assets/105073216/cb88374e-634b-44ce-89b2-f29e4f359893">)](https://www.youtube.com/watch?v=r__xJG56WEE "Introducing CARE 360")
+[![Introducing CARE 360](https://img.youtube.com/vi/r__xJG56WEE/maxresdefault.jpg)](https://www.youtube.com/watch?v=r__xJG56WEE "Introducing CARE 360")
