@@ -31,3 +31,10 @@ The web application will include the following features:
 - __Reduced healthcare costs__: It can help to reduce healthcare costs by making it easier for patients to share their medical history with doctors and by helping doctors to provide better care.
 
 - __Empowered patients__: Also, it can help to empower patients by giving them more control over their healthcare data and by providing them with insights into their health.
+
+
+# Promotional Video
+
+[![Introducing CARE 360]
+(<img width="1678" alt="Screenshot 2023-12-04 at 8 41 56 PM" src="https://github.com/aksshatgovind/CARE-360/assets/105073216/cb88374e-634b-44ce-89b2-f29e4f359893">)]
+(https://www.youtube.com/watch?v=r__xJG56WEE "Introducing CARE 360")
